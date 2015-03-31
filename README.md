@@ -1,4 +1,4 @@
-#This repository is moved from here, got to http://github.com/mdjahid/OracleJDKInstaller for latest versions/info/changes..
+#This repository is moved from here, got to http://github.com/neurobin/OracleJDKInstaller for latest versions/info/changes..
 
 
 OracleJDKInstaller
