@@ -1,3 +1,6 @@
+#This repository is moved from here, got to http://github.com/neurobin/OracleJDKInstaller for latest versions/info/changes..
+
+
 OracleJDKInstaller
 ==================
 
